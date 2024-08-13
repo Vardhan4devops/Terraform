@@ -1,0 +1,7 @@
+Terraform Commands:
+--------------------
+terraform init -	prepare working directory for other commands,
+terraform validate -	check the configuration is valid
+terraform plan -	show changes required by the current configuration,
+terraform apply -	create/update infrastructure
+terraform delete -	destroy infrastructure
